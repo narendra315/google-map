@@ -6,7 +6,6 @@
 // 5.1. calculate the delta of each co-ordinate and update them on an much lower timeinterval
 
 // How to smoothly move the marker from one position to another, Refer below URL for help
-// https://www.codexworld.com/google-map-move-marker-smoothly-javascript-api/
 // https://jsfiddle.net/user2314737/06rut61g/
 let map;
 const mapCord = {
